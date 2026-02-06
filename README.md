@@ -1,5 +1,6 @@
-# Linux  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" style="vertical-align: bottom; margin-left: 10px;">
+This repository contains hands‑on Linux learning projects, notes, and exercises focused on command‑line mastery and security‑focused system administration.
 
+# Linux <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="40" style="vertical-align: middle; margin-left: 8px;">
 
 This repository contains a collection of hands‑on Linux learning projects, notes, and exercises that document my progression toward command‑line mastery and security‑focused system administration. Each topic reflects practical experience gained through real usage, experimentation, and troubleshooting across multiple Linux environments.
 
