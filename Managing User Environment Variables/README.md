@@ -1,4 +1,4 @@
-# Chapter 7: Managing User Environment Variables
+# Managing User Environment Variables
 
 Environment variables control how the Linux system and applications behave for a user. They define things like command paths, default editors, language settings, and program behavior. Understanding them is critical for customization, scripting, and troubleshooting.
 
