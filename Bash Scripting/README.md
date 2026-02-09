@@ -1,4 +1,4 @@
-# Chapter 8: Bash Scripting
+# Bash Scripting
 
 Bash scripting allows you to automate tasks, chain commands together, and control system behavior using logic. Instead of typing commands manually, you write them once and let the system run them for you.
 
