@@ -1,6 +1,6 @@
 # Automating Tasks with Job Scheduling
 
-Linux provides multiple mechanisms for automating tasks, ranging from one-time delayed jobs to recurring system-wide schedules. Mastering job scheduling is essential for maintenance, backups, monitoring, and long-running system administration workflows. This chapter covers cron, at, systemd timers, and practical automation patterns.
+Linux provides multiple mechanisms for automating tasks, ranging from one-time delayed jobs to recurring system-wide schedules. Mastering job scheduling is essential for maintenance, backups, monitoring, and long-running system administration workflows. This section covers cron, at, systemd timers, and practical automation patterns.
 
 ## Cron: Recurring Task Scheduling
 cron is the primary service for running commands on a repeating schedule.
