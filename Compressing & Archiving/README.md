@@ -1,4 +1,4 @@
-# Chapter 9: Compressing and Archiving
+# Compressing and Archiving
 
 As I work with more files in Linux, I quickly realize how important it is to bundle, compress, and move data efficiently. Compressing and archiving lets me save space, speed up transfers, and keep related files organized. In this section, I break down the most common tools used for archiving and compression, how they differ, and when to use each one.
 
